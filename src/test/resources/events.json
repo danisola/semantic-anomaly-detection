@@ -1,0 +1,32 @@
+[
+  {
+    "schema": "item_purchased/1-0-0",
+    "data": {
+      "item_id": "D6KML",
+      "purchase_counter": 11,
+      "customer_country": "UK",
+      "customer_phone_prefix": "44",
+      "customer_requests": null
+    }
+  },
+  {
+    "schema": "item_purchased/1-0-0",
+    "data": {
+      "item_id": "9NDP4",
+      "purchase_counter": 12,
+      "customer_country": "US",
+      "customer_phone_prefix": "1",
+      "customer_requests": null
+    }
+  },
+  {
+    "schema": "item_purchased/1-0-0",
+    "data": {
+      "item_id": "HL34J",
+      "purchase_counter": 13,
+      "customer_country": "UK",
+      "customer_phone_prefix": "44",
+      "customer_requests": "Gift wrap it please!"
+    }
+  }
+]
